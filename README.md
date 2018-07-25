@@ -29,4 +29,4 @@ python path(decision_tree_classif.py)
 
 
 
-Training sentences were only 1000 when I got this accuracy due to lack of computational capabilities.Accuracy would increase when we increase the training data.
+Training sentences were only 10000 when I got this accuracy due to lack of computational capabilities.Accuracy would increase when we increase the training data.
