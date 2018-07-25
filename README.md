@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 * Run classifiers
 ```
-python path(Neural_network_classifier)
+python path(neural_network_classifier.py)
 python path(decision_tree_classif.py)
 ```
 
