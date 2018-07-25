@@ -145,7 +145,7 @@ from keras.wrappers.scikit_learn import KerasClassifier
 def create_model():
     model = Sequential()
     model.add(Dense(64, activation='relu'))
-    model.add(Dense(15, activation='softmax'))
+    model.add(Dense(17, activation='softmax'))
     # Compile model
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
